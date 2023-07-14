@@ -6,7 +6,7 @@ I'm a student at Harvard University studying Computer Science with a language ci
 <b>[CS51 Final Project](https://github.com/ArjonH/MiniML) </b>: This is my implementation for the MiniML final project for CS51 for Spring 2023.
 (NOTE: this will only be public during Fall semester to ensure my code is not reused by future students.)
 
-<b>[CS50 Final Project](https://github.com/ArjonH/LoveTest50) </b>: A Flask website that allows users to solve love trianges and test compatibilites between individuals. My final project for CS50 for Fall 2021.
+<b>[CS50 Final Project](https://github.com/ArjonH/LoveTest50) </b>: LoveTest50, a Flask website that allows users to solve love trianges and test compatibilites between individuals. My final project for CS50 for Fall 2021.
 
 <!--
 <b>Math 21b Notes</b>: Notes for Math 21b: Linear Algebra and Differntial Equations. Currently a work in progress.
